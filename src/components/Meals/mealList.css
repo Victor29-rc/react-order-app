@@ -1,0 +1,8 @@
+.meal-list li:first-of-type {
+    padding-top: 0px;
+}
+
+.meal-list li:last-of-type {
+    padding-bottom: 0px;
+    border: none;
+}

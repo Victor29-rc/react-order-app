@@ -1,0 +1,15 @@
+.cart_list {
+    list-style: none;
+    padding: 0;
+}
+
+.total_section {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.order_close_section {
+    text-align: right;
+    margin-top: 12px;
+}

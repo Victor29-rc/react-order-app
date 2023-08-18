@@ -1,0 +1,14 @@
+.add_remove_button {
+    background: transparent;
+    border: 1px solid #a03122;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #a03122;
+    padding: 2px 12px;
+    cursor: pointer;
+}
+
+.add_remove_button:hover {
+    background: #a03122;
+    color: #ffffff;
+}

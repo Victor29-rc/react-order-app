@@ -1,0 +1,20 @@
+.order_close_button {
+    background: transparent;
+    border: 1px solid #a03122;
+    padding: 6px 20px;
+    cursor: pointer;
+    font-size: 12px;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    border-top-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+
+.primary {
+  color: #a03122;
+}
+
+.secondary {
+    color: #ffffff;
+    background-color: #a03122;
+}

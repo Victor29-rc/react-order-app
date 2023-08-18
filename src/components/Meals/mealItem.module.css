@@ -1,0 +1,49 @@
+.meal_item {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+.meal_item_tittle {
+    display: block;
+    font-weight: bold;
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+
+.meal_item_description {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+
+.meal_item_price {
+    display: block;
+    text-align: left;
+    color: #a03122;
+    font-weight: bold;
+}
+
+.meal_item_quantity_input {
+    width: 30%;
+    border: 1px solid #cdcdcd;
+    border-radius: 4px;
+}
+
+.meal_item_amount_tittle {
+    font-weight: bold;
+    text-align: left;
+    font-size: 14px;
+    margin-right: 8px;
+}
+
+.meal_item_actions_container {
+    text-align: right;
+}
+
+.meal_item_quantity_container {
+    margin-bottom: 6px;
+}
